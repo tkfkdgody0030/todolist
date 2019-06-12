@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/checklist/static/css/main.4f2f3395.chunk.css",
-    "main.js": "/checklist/static/js/main.07fc4aec.chunk.js",
-    "main.js.map": "/checklist/static/js/main.07fc4aec.chunk.js.map",
-    "runtime~main.js": "/checklist/static/js/runtime~main.4566dd61.js",
-    "runtime~main.js.map": "/checklist/static/js/runtime~main.4566dd61.js.map",
-    "static/css/2.5d33f9f8.chunk.css": "/checklist/static/css/2.5d33f9f8.chunk.css",
-    "static/js/2.6e578f98.chunk.js": "/checklist/static/js/2.6e578f98.chunk.js",
-    "static/js/2.6e578f98.chunk.js.map": "/checklist/static/js/2.6e578f98.chunk.js.map",
-    "index.html": "/checklist/index.html",
-    "precache-manifest.660defb1ae5da8c2505937d397162966.js": "/checklist/precache-manifest.660defb1ae5da8c2505937d397162966.js",
-    "service-worker.js": "/checklist/service-worker.js",
-    "static/css/2.5d33f9f8.chunk.css.map": "/checklist/static/css/2.5d33f9f8.chunk.css.map",
-    "static/css/main.4f2f3395.chunk.css.map": "/checklist/static/css/main.4f2f3395.chunk.css.map"
+    "main.css": "/todolist/static/css/main.4f2f3395.chunk.css",
+    "main.js": "/todolist/static/js/main.3e696c30.chunk.js",
+    "main.js.map": "/todolist/static/js/main.3e696c30.chunk.js.map",
+    "runtime~main.js": "/todolist/static/js/runtime~main.d3bf418b.js",
+    "runtime~main.js.map": "/todolist/static/js/runtime~main.d3bf418b.js.map",
+    "static/css/2.5d33f9f8.chunk.css": "/todolist/static/css/2.5d33f9f8.chunk.css",
+    "static/js/2.ad9e31a9.chunk.js": "/todolist/static/js/2.ad9e31a9.chunk.js",
+    "static/js/2.ad9e31a9.chunk.js.map": "/todolist/static/js/2.ad9e31a9.chunk.js.map",
+    "index.html": "/todolist/index.html",
+    "precache-manifest.985448782af1a58c7772bdbdcd50e509.js": "/todolist/precache-manifest.985448782af1a58c7772bdbdcd50e509.js",
+    "service-worker.js": "/todolist/service-worker.js",
+    "static/css/2.5d33f9f8.chunk.css.map": "/todolist/static/css/2.5d33f9f8.chunk.css.map",
+    "static/css/main.4f2f3395.chunk.css.map": "/todolist/static/css/main.4f2f3395.chunk.css.map"
   }
 }
